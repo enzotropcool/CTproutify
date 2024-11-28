@@ -151,7 +151,35 @@ const replace = [
   {
     "name": "GPT",
     "replaceWith": "j'ai pété"
-  }
+  },
+  {
+    "name": "chiffre d'affaire",
+    "replaceWith": "chibre d'affaire"
+  },
+  {
+    "name": "ospi",
+    "replaceWith": "oupsi"
+  },
+  {
+    "name": "anniversaire",
+    "replaceWith": "opsiversaire"
+  },
+  {
+    "name": "penis",
+    "replaceWith": "kiki (hihi)"
+  },
+  {
+    "name": "morts",
+    "replaceWith": "losers"
+  },
+  {
+    "name": "tué",
+    "replaceWith": "diffed"
+  },
+  {
+    "name": "volé",
+    "replaceWith": "looté"
+  },
 
 ];
 /* For copy/paste
@@ -161,7 +189,7 @@ const replace = [
   },
 */
 
-// Create arrya of regexps with all above elements
+// Create array of regexps with all above elements
 const rExps = []
 replace.forEach((element) => {
   rExps.push([new RegExp(element["name"]), element["replaceWith"]])
