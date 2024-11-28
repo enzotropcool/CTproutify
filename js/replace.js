@@ -177,7 +177,7 @@ const replace = [
     "replaceWith": "Liboules"
   },
   {
-    "name": "code+",
+    "name": "code+|Code+",
     "replaceWith": "code&#43"
   },
 
