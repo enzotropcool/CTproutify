@@ -176,6 +176,10 @@ const replace = [
     "name": "Libourne",
     "replaceWith": "Liboules"
   },
+  {
+    "name": "code+",
+    "replaceWith": "code&#43"
+  },
 
 ];
 /* For copy/paste
