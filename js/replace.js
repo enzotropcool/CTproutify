@@ -157,28 +157,24 @@ const replace = [
     "replaceWith": "chibre d'affaire"
   },
   {
-    "name": "ospi",
-    "replaceWith": "oupsi"
+    "name": "Ospi",
+    "replaceWith": "Oupsi"
   },
   {
     "name": "anniversaire",
     "replaceWith": "opsiversaire"
   },
   {
-    "name": "penis",
-    "replaceWith": "kiki (hihi)"
+    "name": "penis|Penis",
+    "replaceWith": "Zigouigoui"
   },
   {
-    "name": "morts",
-    "replaceWith": "losers"
+    "name": "cloud|Cloud",
+    "replaceWith": "Nuage"
   },
   {
-    "name": "tué",
-    "replaceWith": "diffed"
-  },
-  {
-    "name": "volé",
-    "replaceWith": "looté"
+    "name": "Libourne",
+    "replaceWith": "Liboules"
   },
 
 ];
