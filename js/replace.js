@@ -89,6 +89,10 @@ const replace = [
     "replaceWith": "Jean-Baptiste Djeprouti"
   },
   {
+    "name": "jmlp|Jmlp",
+    "replaceWith": "le nazis"
+  },
+  {
     "name": "Olivier Dussopt",
     "replaceWith": "Olivier Duprout"
   },
@@ -158,7 +162,7 @@ const replace = [
   },
   {
     "name": "Ospi",
-    "replaceWith": "Oupsi"
+    "replaceWith": "Opsi"
   },
   {
     "name": "anniversaire",
@@ -177,9 +181,47 @@ const replace = [
     "replaceWith": "Liboules"
   },
   {
-    "name": "code+|Code+",
+    "name": "code\\+|Code\\+",
     "replaceWith": "code&#43"
   },
+  {
+    "name": "lady gaga|Lady Gaga",
+    "replaceWith": "Lady Caca"
+  },
+  {
+    "name": "C\\+\\+",
+    "replaceWith": "CproutProut"
+  },
+  {
+    "name": "C\\+",
+    "replaceWith": "Cprout"
+  },
+  {
+    "name": "al-capone|Al-Capone| al capone|Al Capone",
+    "replaceWith": "Al-Cacapone"
+  },
+  {
+    "name": "catastrophe|Catastrophe",
+    "replaceWith": "Cacatastrophe"
+  },
+  {
+    "name": "Catherine Deneuve|Catherine Deneuve",
+    "replaceWith": "Catherine D\'ocasion"
+  },
+  {
+    "name": "Jean-Luc Lahaye|Jean-Luc Lahaye",
+    "replaceWith": "Jean-Luc La Haie"
+  },
+  {
+  "name": "Collective thinking|Collective-thinking|Collective-Thinking Collective Thinking",
+    "replaceWith": "Collectif-thinking"
+  },
+    {
+    "name": "LIFEN|Lifen",
+    "replaceWith": "ONLIFEN"
+  }
+
+
 
 ];
 /* For copy/paste
