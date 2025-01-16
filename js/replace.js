@@ -216,9 +216,21 @@ const replace = [
   "name": "Collective thinking|Collective-thinking|Collective-Thinking Collective Thinking",
     "replaceWith": "Collectif-thinking"
   },
-    {
+  {
     "name": "LIFEN|Lifen",
     "replaceWith": "ONLIFEN"
+  },
+  {
+    "name": "medEngine|Medengine|MedEngine",
+    "replaceWith": "Merdengine"
+  },
+  {
+    "name": "Docker|docker",
+    "replaceWith": "Dicker"
+  },
+    {
+    "name": "pull",
+    "replaceWith": "poule"
   }
 
 
